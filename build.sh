@@ -1,3 +1,3 @@
 #!/bin/bash
 
-docker build -t pavlikus/etcdtool:latest . 
+docker build -t pavlikus/etcdtool-alpine:latest . 
